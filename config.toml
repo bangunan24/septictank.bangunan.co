@@ -101,7 +101,7 @@ paginate = 6
   name = "{Joko|Budi|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi}"
   message = "{Produk Bio Septictank dari septictank.bangunan.co {sangat cocok|tepat|luar biasa} untuk proyek {perumahan|bangunan|renovasi} saya. Proses pembelian {lancar|mudah|cepat} dan pengiriman {tepat waktu|aman|tanpa masalah}.|Saya membeli Bio Septictank dari septictank.bangunan.co untuk proyek saya, dan produk ini {sangat berkualitas|luar biasa|memenuhi harapan} serta pengirimannya {cepat|aman|profesional}.}"
   response = "{Terima kasih! Kami berkomitmen untuk menyediakan Bio Septictank {berkualitas|terbaik} dengan layanan {terbaik|optimal}.|Kami menghargai ulasan positif Anda. Terima kasih telah memilih kami!|Senang mendengar Anda puas dengan produk kami. Terima kasih atas kepercayaannya!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"

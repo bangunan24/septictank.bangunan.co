@@ -1,54 +1,53 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Andi
-    message: >-
-      Produk Bio Septictank dari septictank.bangunan.co terbaik untuk proyek
-      perumahan saya. Pengiriman tepat waktu dan layanan profesional.
-    response: >-
-      Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan Bio
-      Septictank terbaik untuk proyek Anda.
-    rating: 4
-  - avatar: /images/admin/avatar2.png
-    name: Lia
-    message: >-
-      Produk Bio Septictank dari septictank.bangunan.co benar-benar cocok dengan
-      kebutuhan saya, dan pelayanan mereka profesional.
-    response: >-
-      Terima kasih atas ulasan positifnya. Kami senang dapat memenuhi harapan
-      Anda dengan produk kami.
-    rating: 5
-  - avatar: /images/admin/avatar3.png
-    name: Dedi
-    message: >-
-      Produk Bio Septictank dari septictank.bangunan.co luar biasa untuk proyek
-      perumahan saya. Proses pembelian lancar dan pengiriman aman.
-    response: >-
-      Terima kasih! Kami berkomitmen untuk menyediakan Bio Septictank
-      berkualitas dengan layanan optimal.
-    rating: 4
-  - avatar: /images/admin/avatar4.png
     name: Rudi
     message: >-
-      Saya sangat puas dengan Bio Septictank dari septictank.bangunan.co.
-      Kualitasnya terbaik dan tahan lama untuk proyek saya.
+      Produk Bio Septictank dari septictank.bangunan.co terbaik untuk proyek
+      rumah saya. Pengiriman cepat dan layanan baik.
     response: >-
-      Terima kasih atas ulasan Anda. Kami senang dapat memenuhi kebutuhan proyek
-      Anda.
-    rating: 5
-  - avatar: /images/admin/avatar5.png
-    name: Indah
-    message: >-
-      Pelayanan septictank.bangunan.co luar biasa. Produk Bio Septictank yang
-      saya beli sangat berkualitas dan tepat dengan kebutuhan saya.
-    response: Kami menghargai kepercayaan Anda. Terima kasih atas ulasan positifnya!
+      Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan Bio
+      Septictank berkualitas untuk proyek Anda.
     rating: 4
-  - avatar: /images/admin/avatar6.png
+  - avatar: /images/admin/avatar2.png
+    name: Dewi
+    message: >-
+      Produk Bio Septictank dari septictank.bangunan.co luar biasa dengan proyek
+      saya, dan pelayanan mereka profesional.
+    response: >-
+      Kami sangat menghargai ulasan Anda. Senang mendengar Anda puas dengan Bio
+      Septictank kami.
+    rating: 5
+  - avatar: /images/admin/avatar3.png
     name: Hendra
     message: >-
-      Bio Septictank dari septictank.bangunan.co sangat cocok dengan kebutuhan
-      proyek renovasi rumah saya. Proses pengiriman lancar dan produk
-      berkualitas tinggi.
+      Saya membeli Bio Septictank dari septictank.bangunan.co untuk proyek saya,
+      dan produk ini memenuhi harapan serta pengirimannya cepat.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan produk kami. Terima kasih
-      atas ulasannya!
+      Terima kasih! Kami berkomitmen untuk menyediakan Bio Septictank terbaik
+      dengan layanan optimal.
+    rating: 4
+  - avatar: /images/admin/avatar4.png
+    name: Agus
+    message: >-
+      Saya sangat puas dengan Bio Septictank dari septictank.bangunan.co.
+      Kualitasnya luar biasa dan tahan lama untuk proyek saya.
+    response: >-
+      Kami berkomitmen untuk menyediakan produk berkualitas tinggi, dan kami
+      senang mendengar Anda puas.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Lia
+    message: >-
+      Pelayanan septictank.bangunan.co luar biasa. Produk Bio Septictank yang
+      saya beli berkualitas tinggi dan tepat dengan keinginan saya.
+    response: >-
+      Senang mendengar Anda puas dengan produk kami. Terima kasih atas
+      kepercayaannya!
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Fajar
+    message: >-
+      Bio Septictank dari septictank.bangunan.co sangat sesuai dengan kebutuhan
+      proyek renovasi rumah saya. Proses pengiriman aman dan produk kokoh.
+    response: Kami sangat menghargai ulasan Anda. Terima kasih atas kepercayaannya!
     rating: 5

@@ -1,34 +1,31 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Hendra
+    name: Joko
     message: >-
-      Saya membeli Bio Septictank dari septictank.bangunan.co dan hasilnya
-      memenuhi harapan. Instalasi profesional dan produk kokoh.
+      Produk Bio Septictank dari septictank.bangunan.co sangat berkualitas untuk
+      proyek perumahan saya. Pengiriman cepat dan layanan ramah.
     response: >-
       Kami berkomitmen untuk menyediakan Bio Septictank terbaik dengan layanan
       profesional. Terima kasih atas kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Lia
+    name: Wati
     message: >-
-      septictank.bangunan.co sangat membantu dalam menemukan Bio Septictank yang
-      sesuai untuk proyek saya. Produk yang saya beli luar biasa dan sesuai
-      dengan kebutuhan saya.
+      Produk Bio Septictank dari septictank.bangunan.co sangat sesuai dengan
+      kebutuhan saya, dan pelayanan mereka ramah.
     response: >-
-      Terima kasih, atas kepercayaannya! Kami akan terus menyediakan produk
-      terbaik untuk kebutuhan Anda.
+      Kami sangat menghargai ulasan Anda. Senang mendengar Anda puas dengan Bio
+      Septictank kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Hendra
+    name: Fajar
     message: >-
       Saya membeli Bio Septictank dari septictank.bangunan.co untuk proyek saya,
-      dan produk ini luar biasa serta pengirimannya cepat.
-    response: >-
-      Senang mendengar Anda puas dengan produk kami. Terima kasih atas
-      kepercayaannya!
+      dan produk ini sangat berkualitas serta pengirimannya profesional.
+    response: Kami menghargai ulasan positif Anda. Terima kasih telah memilih kami!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Dedi
+    name: Andi
     message: >-
       Saya sangat puas dengan Bio Septictank dari septictank.bangunan.co.
       Kualitasnya terbaik dan tahan lama untuk proyek saya.
@@ -37,19 +34,19 @@ testimonials:
       Anda.
     rating: 5
   - avatar: /images/admin/avatar5.png
-    name: Nina
+    name: Siti
     message: >-
-      Produk Bio Septictank dari septictank.bangunan.co memuaskan dan layanan
-      mereka ramah.
+      Pelayanan septictank.bangunan.co sangat memuaskan. Produk Bio Septictank
+      yang saya beli memenuhi harapan dan tepat dengan kebutuhan saya.
     response: Kami menghargai kepercayaan Anda. Terima kasih atas ulasan positifnya!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Dedi
+    name: Agus
     message: >-
-      Bio Septictank dari septictank.bangunan.co sangat cocok dengan kebutuhan
-      proyek renovasi rumah saya. Proses pengiriman cepat dan produk sangat
-      berkualitas.
+      Bio Septictank dari septictank.bangunan.co sangat sesuai dengan kebutuhan
+      proyek renovasi rumah saya. Proses pengiriman cepat dan produk berkualitas
+      tinggi.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan produk kami. Terima kasih
-      atas ulasannya!
+      Terima kasih atas kepercayaannya. Kami sangat senang mendengar Anda puas
+      dengan Bio Septictank kami.
     rating: 5
